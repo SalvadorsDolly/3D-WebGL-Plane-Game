@@ -1,0 +1,7 @@
+#world {
+	position: absolute;
+	height: 100%;
+	width: 100%;
+	overflow: hidden;
+	background: linear-gradient( #0048ff, #a0bbff );
+}
